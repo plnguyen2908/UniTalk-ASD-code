@@ -2,7 +2,7 @@
 
 [Le Thien Phuc Nguyen*](https://plnguyen2908.github.io/), [Zhuoran Yu*](https://www.zhuoranyu.com/), Khoa Cao Quang Nhat, Yuwei Guo, Tu Ho Manh Pham, Tuan Tai Nguyen, Toan Ngo Duc Vo, Lucas Poon, [Soochahn Lee](https://sites.google.com/view/soochahnlee/),  [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) (* *Equal Contribution*)
 
-[Project Page](https://plnguyen2908.github.io/UniTalk-ASD-project-page/index.html) | [Arxiv](https://arxiv.org/abs/2505.21954) | [Dataset Storage](https://huggingface.co/datasets/plnguyen2908/UniTalk-ASD)
+[Project Page](https://plnguyen2908.github.io/UniTalk-ASD-project-page/index.html) | [Arxiv](https://arxiv.org/abs/2505.21954) | [Dataset Storage](https://huggingface.co/datasets/plnguyen2908/UniTalk-ASD) | [Annotation Tool](https://github.com/plnguyen2908/multilingual_annotation)
 
 ## Downloading the dataset:
 
