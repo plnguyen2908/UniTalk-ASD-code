@@ -1,4 +1,4 @@
-# UniTalk-ASD
+# Revisiting Active Speaker Detection: An In-the-Wild Benchmark for Generalization and Robustness
 
 [Le Thien Phuc Nguyen*](https://plnguyen2908.github.io/), [Zhuoran Yu*](https://www.zhuoranyu.com/), Khoa Cao Quang Nhat, Yuwei Guo, Tu Ho Manh Pham, Tuan Tai Nguyen, Toan Ngo Duc Vo, Lucas Poon, [Soochahn Lee](https://sites.google.com/view/soochahnlee/),  [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) (* *Equal Contribution*)
 
